@@ -318,3 +318,15 @@ h3 {
 		margin-left: 10%;
 	}
 }
+
+.flexed{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1.5rem;
+}
+
+.flexed img{
+	display: inline-block;
+	padding-bottom: 1rem;
+}
