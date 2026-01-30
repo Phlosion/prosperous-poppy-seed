@@ -86,11 +86,25 @@ sequence. */
 	-webkit-user-select:none;
 	-moz-user-select:none;
 	-ms-user-select:none;
-	user-select:none} 
+	user-select:none}
 
 .w3-button:disabled {
 	cursor:not-allowed;
 	opacity:0.3
+}
+
+/* This is the About Us content */
+
+.flexed {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1.5rem;
+}
+
+.flexed img {
+	display: inline-block;
+	padding-bottom: 1rem;
 }
 
 /* --- Typographical Scales --- */
@@ -103,13 +117,24 @@ header h2 { /* 40px is 2.083%  of 1920px */
 	font-size: 2.083vw;
 }
 
+header h2 a:link, header h2 a:visited {
+	color: #1b314e;
+	text-decoration: none;
+}
+
+header h2 a:hover, header h2a:active {
+		color: #174e95;
+		transition: 0.3s all;
+		text-shadow: 6px 6px 11px #fff;
+}
+
 .shine {  /*  Call to action color  */
 	color: #557763;
 }
 
 h1, h2, h3 {
-	font-family: 'Architects Daughter', cursive;
-	color: #427ac1;
+	font-family: "Roboto Slab", serif;
+	color: #1b314e;
 }
 
 h2, h3 {
@@ -317,16 +342,4 @@ h3 {
  .hamburger-position {
 		margin-left: 10%;
 	}
-}
-
-.flexed{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	gap: 1.5rem;
-}
-
-.flexed img{
-	display: inline-block;
-	padding-bottom: 1rem;
 }
