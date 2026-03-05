@@ -229,7 +229,8 @@ article img {
 footer {
 	padding: 40px 0;
 	margin-top: 24px;
-	background-color: #a9a9a9;
+	background-color: #1b314e;
+	color: white;
 }
 
 footer ol {
