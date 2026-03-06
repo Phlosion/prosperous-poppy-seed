@@ -151,6 +151,38 @@ Google LLC (United States) – Privacy Policy
 Cookie Policy
 This Application uses Trackers. To learn more, Users may consult the Cookie Policy.
 
+Instagram Widget
+Company:Meta Platforms, Inc.
+
+Place of processing:United States
+
+Personal Data processed:Trackers +1
+
+Instagram is an image visualization service provided by Meta Platforms, Inc. that allows this Application to incorporate content of this kind on its pages.
+
+Personal Data processed:
+Trackers
+Usage Data
+Service provided by:
+Meta Platforms, Inc. (United States) – Privacy Policy
+
+Facebook account access
+Company:Meta Platforms, Inc.
+
+Place of processing:United States
+
+Permissions asked:device information +3
+
+This service allows this Application to connect with the User's account on the Facebook social network, provided by Meta Platforms, Inc.
+
+Permissions asked:
+device information
+Email
+Trackers
+Usage Data
+Service provided by:
+Meta Platforms, Inc. (United States) – Privacy Policy – Opt out
+
 Further Information for Users in the European Union
 Legal basis of processing
 The Owner may process Personal Data relating to Users if one of the following applies:
