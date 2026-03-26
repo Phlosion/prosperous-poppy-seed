@@ -199,6 +199,13 @@ header {
   	justify-content: center;
   }
 
+/* ads */
+.leaderboard{
+	display: flex;
+	justify-content: center;
+	padding-top: 24px;
+}
+
 main, .bg-container {
 	width: 71%;
 	margin: 20px auto;
