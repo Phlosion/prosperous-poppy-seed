@@ -1,0 +1,36 @@
+
+humans.txt (for phlosion.github.io)
+
+
+/* TEAM */
+
+Developer/Designer: Arvin Rahman
+Email: prosperouspoppyseed@gmail.com
+
+
+/* THANKS */
+Reciprocal Link: Guys name for the other spice
+Template CreatorL Markis Day
+
+
+/* TECHNOLOGY */
+
+Built With: Visual Studio Code, MS Word, Ninja Keyword Analysis, ChatGPT, Grammarly Ai Detector, Iubenda, XML-Sitemaps, Github, 
+
+Managed With: Unsplash, Pixabay, Squoosh, Mailchimp, Google Analytics, Seach console, Pexels, 
+
+Web Technologies: HTML5, CSS3, Javascript, Json, XML 
+
+
+/* FEATURES */
+
+Mobile first approach, responsive, Javascript navigation, 
+
+
+/* COPYRIGHT */
+
+Copyright (c) phlosion — All rights reserved.
+
+
+/* COMMUNICATION */
+
