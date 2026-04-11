@@ -317,6 +317,11 @@ footer a:hover, a:active {
 	color: #174e95;
 }
 
+.gallery{
+    display: flex;
+    align-items: center;
+}
+
 /* -- End of Code for the Cookie Compliance popover window -- */
 
 @media only screen and  (min-width:900px) {
