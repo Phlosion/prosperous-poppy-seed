@@ -134,7 +134,7 @@ header h2 a:hover, header h2a:active {
 
 h1, h2, h3 {
 	font-family: "Roboto Slab", serif;
-	color: #1b314e;
+	color: white;
 }
 
 h2, h3 {
@@ -320,6 +320,59 @@ footer a:hover, a:active {
 .gallery{
     display: flex;
     align-items: center;
+}
+
+/* 404 Page style */
+.four-o-four{
+	background: url(../img/four-o-four.avif) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.four-o-four main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content-box{
+	text-align: center;
+	color: aliceblue;
+	background-color: rgba(0,0,0,0.5);
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 16px;
+	margin-top: 15%;
+	width: 50%;
+	min-width: 340px;
+}
+
+.content-box a{
+	display: inline-block;
+	padding: 16px 32px;
+	text-decoration: none;
+	border-radius: 8px;
+	font-weight: 700;
+	transition: all 1s;
+}
+
+.content-box a:link, .content-box a:visited {
+	color: aliceblue;
+	background-color: #666;
+	border: solid 2px aliceblue;
+}
+
+.content-box a:hover, .content-box a:active {
+	color: #666;
+	background-color: aliceblue;
+	border: solid 2px #666;
+}
+
+
+.four-o-four footer{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
 }
 
 /* -- End of Code for the Cookie Compliance popover window -- */
